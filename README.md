@@ -1,1 +1,1 @@
-this file contains my first README.md on alx-pre_course
+My first readme
